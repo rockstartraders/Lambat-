@@ -1,0 +1,11 @@
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\bin\Debug\lambat.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\bin\Debug\lambat.exe.config
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.Form1.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.Resources.resources
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.vbproj.GenerateResource.Cache
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.exe
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.xml
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\obj\Debug\lambat.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\bin\Debug\lambat.pdb
+C:\Users\GAMING_RIG\Documents\Visual Studio 2013\Projects\lambat\lambat\bin\Debug\lambat.xml
+C:\Users\GAMING_RIG\documents\visual studio 2013\Projects\lambat\lambat\obj\Debug\lambat.vbprojResolveAssemblyReference.cache
